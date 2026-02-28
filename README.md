@@ -4,7 +4,7 @@
 
 **言葉を織って文と成す -ことおり(言織)-**　です。
 
-[Windows用インストーラー Kotoori.Setup.1.0.6.zip](https://github.com/kermount-dev/Kotoori-TextEditor/releases/download/v1.0.6/Kotoori.Setup.1.0.6.zip "Kotoori.Setup.1.0.6.zip")
+[Windows用インストーラー Kotoori.Setup.1.0.7.zip](https://github.com/kermount-dev/Kotoori-TextEditor/releases/download/v1.0.7/Kotoori.Setup.1.0.7.zip "Kotoori.Setup.1.0.7.zip")
 
 VS Codeと同じテキストエディタエンジン(Monaco Editor)を使いつつ、 **コードスニペットや拡張機能に対応しない** ことで軽量かつ迷わない操作性を実現しています。
 拡張機能をダウンロードする必要がないので、インストールしてすぐに使い始められます。
@@ -23,7 +23,7 @@ VS Codeと同じテキストエディタエンジン(Monaco Editor)を使いつ�
 - 小説家になろう形式　ルビ、傍点の挿入に対応
 - 色設定をテーマとしてまとめて保存
 - アウトラインで使用できるカスタム見出しの設定
-- Markdown形式のプレーンテキスト保存
+- Markdown形式のリッチテキスト/HTML/プレーンテキスト保存
 - メモ機能　全体メモとファイル個別メモの保存
 
 # 簡易マニュアル
